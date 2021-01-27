@@ -1,0 +1,5 @@
+masonite==3.0.5
+masonite-logging==1.0.1
+masonite-orm==1.0.8
+masonite-validation==3.0.12
+PyGithub==1.54.1
